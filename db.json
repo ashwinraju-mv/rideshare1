@@ -1,0 +1,86 @@
+{
+  "user": [
+    {
+      "id": "saqwer@gmail.com",
+      "firstname": "sai",
+      "lastname": "vishnu",
+      "password": "Asdfghjk",
+      "Phone": "87623456",
+      "role": "Driver"
+    },
+    {
+      "id": "sai@gmail.com",
+      "firstname": "Bala",
+      "lastname": "S",
+      "password": "asdfer",
+      "Phone": "9442338418",
+      "role": "Passenger"
+    },
+    {
+      "id": "bitspilani@gmail.com",
+      "firstname": "Balasaraswathy",
+      "lastname": "S",
+      "password": "Assignmneg2",
+      "Phone": "1234567",
+      "role": "Passenger"
+    },
+    {
+      "id": "qwerty@gmail.com",
+      "firstname": "ASHWIN",
+      "lastname": "RAJU M V",
+      "password": "Qwerty123@",
+      "Phone": "1234567890",
+      "role": "Passenger"
+    },
+    {
+      "id": "qwertu@gmail.com",
+      "firstname": "ASHWIN",
+      "lastname": "RAJU M V",
+      "password": "123456781@A",
+      "Phone": "1234567890",
+      "role": "Passenger"
+    },
+    {
+      "id": "a1@gmail.com",
+      "firstname": "AR",
+      "lastname": "AR",
+      "password": "aSHWINrAJU1@",
+      "Phone": "034567890",
+      "role": "Driver"
+    }
+  ],
+  "drivers": [
+    {
+      "id": "bsk1",
+      "name": "Arun",
+      "License": "LX1234",
+      "phonenumber": "9843269783",
+      "ETA": "30000",
+      "fare": "Rs 150"
+    },
+    {
+      "id": "bsk2",
+      "name": "Vikram",
+      "License": "LKJHGFDSA",
+      "phonenumber": "88290452",
+      "ETA": "180000",
+      "fare": "Rs 155"
+    },
+    {
+      "id": "rajajinagar",
+      "name": "Vijay",
+      "License": "LKJHGFDSA",
+      "phonenumber": "9095968418",
+      "ETA": "600000",
+      "fare": "Rs 155"
+    },
+    {
+      "id": "bsk1",
+      "name": "Aravind",
+      "License": "KA24563",
+      "phonenumber": "123456798",
+      "ETA": "480000",
+      "fare": "Rs 90"
+    }
+  ]
+}
