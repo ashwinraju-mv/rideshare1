@@ -1,11 +1,10 @@
- #Base image
 FROM node:21-alpine3.18
 
 #working directory
 WORKDIR /app
 
 #copy package.json to /app
-COPY package.json .
+COPY package*.json .
 
 #npm install
 RUN npm install

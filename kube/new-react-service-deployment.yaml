@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: new-react-service
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: new-react-service
+  template:
+    metadata:
+      labels:S
+        app: new-react-service
+    spec:
+      containers:
+      - name: new-react-service
+        image: ashwinraju/docker_react_image:v1
+        ports:
+        - containerPort: 2300
